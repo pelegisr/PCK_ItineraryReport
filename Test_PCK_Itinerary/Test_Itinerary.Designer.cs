@@ -40,6 +40,7 @@
             this.UP.ChangeParentIcon = true;
             this.UP.ChangeSystemLogo = true;
             this.UP.Location = new System.Drawing.Point(0, 0);
+            this.UP.MinimumSize = new System.Drawing.Size(642, 52);
             this.UP.Mode = "";
             this.UP.Name = "UP";
             this.UP.Size = new System.Drawing.Size(642, 52);
@@ -82,7 +83,7 @@
             this.txtPNR.Name = "txtPNR";
             this.txtPNR.Size = new System.Drawing.Size(77, 20);
             this.txtPNR.TabIndex = 4;
-            this.txtPNR.Text = "305695";
+            this.txtPNR.Text = "310519";
             // 
             // FrmTest_Itinerary
             // 

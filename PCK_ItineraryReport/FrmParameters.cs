@@ -94,7 +94,8 @@ namespace Peleg.PCK_ItineraryReport
         {
             string connstr = UP.Connection.SqlConnectionString;
             string comp = UP.Company.Code;
-            string reportPath = Application.StartupPath + @"\PLG_Report\Package_Itinerary.rpt";
+            //string reportPath = Application.StartupPath + @"\PLG_Report\Package_Itinerary.rpt";
+            string reportPath = Application.StartupPath + @"\PLG_Report\Pck_Itinerary.rpt";
 
             if (!rbEnglish.Checked && !rbHebrew.Checked)
             {

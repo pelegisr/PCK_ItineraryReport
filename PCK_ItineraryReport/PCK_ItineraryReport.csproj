@@ -41,12 +41,13 @@
     <Reference Include="CG.Animation">
       <HintPath>..\..\..\Common2.Net\CG.Animation.dll</HintPath>
     </Reference>
-    <Reference Include="NaumTools">
-      <HintPath>..\..\..\Common2.Net\NaumTools.dll</HintPath>
+    <Reference Include="NaumTools, Version=1.0.0.0, Culture=neutral, PublicKeyToken=998d9abab6a65c30, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Odyssea\NET.PELEG4\NaumTools.dll</HintPath>
     </Reference>
     <Reference Include="PrintJobs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=998d9abab6a65c30, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\ApplicationTerminals\NET.PELEG4\PrintJobs.dll</HintPath>
+      <HintPath>..\..\..\Odyssea\NET.PELEG4\PrintJobs.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -59,7 +60,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="UPanel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=998d9abab6a65c30, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\ApplicationTerminals\NET.PELEG4\UPanel.dll</HintPath>
+      <HintPath>..\..\..\Odyssea\NET.PELEG4\UPanel.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
